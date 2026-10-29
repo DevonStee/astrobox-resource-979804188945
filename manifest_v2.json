@@ -12,7 +12,7 @@
       "media/05-预览-图书馆.png"
     ],
     "icon": "media/01-图标-1比1.png",
-    "cover": "media/02-封面-3比2-三机.webp",
+    "cover": "media/02-封面-3比2-概念.png",
     "author": [
       {
         "name": "brin",
@@ -28,17 +28,6 @@
     }
   ],
   "downloads": {
-    "xmrw6": {
-      "version": "0.0.0",
-      "file_name": "downloads/Globe of Time RW6.face",
-      "versionCode": 0,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增 REDMI Watch 6 支持"
-        }
-      ]
-    },
     "xmb10": {
       "version": "0.0.1",
       "file_name": "downloads/Globe of Time.face",
@@ -102,6 +91,17 @@
         {
           "version": "0.0.0",
           "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/Globe of Time RW6.face",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增 REDMI Watch 6 支持"
         }
       ]
     }
